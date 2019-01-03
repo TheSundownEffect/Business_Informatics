@@ -4,7 +4,7 @@ Repository for my current study course "Business Informatics" at the University 
 
 **Table of Contents**
 
-![](https://www.fau.de/files/2016/02/Sonnenuntergang_COLOURBOX.jpg)
+![](https://imgur.com/a/3ct2Bg3)
 
 
 
