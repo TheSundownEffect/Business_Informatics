@@ -1,0 +1,24 @@
+﻿Function RateZahl(min, max)
+
+eingegebeneZahl
+zuRatendeZahl
+geraten
+
+geraten = falsch
+zuRatendeZahl = Zufallszahl zwischen min und max
+
+while(geraten = falsch)
+
+    Eingabe in eingegebeneZahl
+
+    If(eingegebeneZahl gleich zuRatendeZahl)
+        geraten = wahr
+    else If(zuRatendeZahl kleiner eingegebeneZahl)
+        Ausgabe: „zu ratende Zahl ist kleiner“
+    else 
+        Ausgabe: „zu ratende Zahl ist größer“
+
+    end
+
+end
+Ausgabe: „Zahl geraten“

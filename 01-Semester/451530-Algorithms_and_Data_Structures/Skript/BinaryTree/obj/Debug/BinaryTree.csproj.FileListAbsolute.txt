@@ -1,0 +1,7 @@
+C:\GitHub\WI\Algo\Skript\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\GitHub\WI\Algo\Skript\BinaryTree\bin\Debug\BinaryTree.exe
+C:\GitHub\WI\Algo\Skript\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\GitHub\WI\Algo\Skript\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\GitHub\WI\Algo\Skript\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\GitHub\WI\Algo\Skript\BinaryTree\obj\Debug\BinaryTree.exe
+C:\GitHub\WI\Algo\Skript\BinaryTree\obj\Debug\BinaryTree.pdb

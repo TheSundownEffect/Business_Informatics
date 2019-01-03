@@ -1,0 +1,6 @@
+C:\GitHub\WI\Algo\Skript\HashTable\bin\Debug\HashTable.exe.config
+C:\GitHub\WI\Algo\Skript\HashTable\bin\Debug\HashTable.exe
+C:\GitHub\WI\Algo\Skript\HashTable\bin\Debug\HashTable.pdb
+C:\GitHub\WI\Algo\Skript\HashTable\obj\Debug\HashTable.csproj.CoreCompileInputs.cache
+C:\GitHub\WI\Algo\Skript\HashTable\obj\Debug\HashTable.exe
+C:\GitHub\WI\Algo\Skript\HashTable\obj\Debug\HashTable.pdb

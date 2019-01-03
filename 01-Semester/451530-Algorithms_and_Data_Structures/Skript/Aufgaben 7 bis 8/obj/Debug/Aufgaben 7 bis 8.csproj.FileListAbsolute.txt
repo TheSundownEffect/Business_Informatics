@@ -1,0 +1,7 @@
+C:\GitHub\WI\Algo\Skript\Aufgaben 7 bis 8\obj\Debug\Aufgaben 7 bis 8.csprojAssemblyReference.cache
+C:\GitHub\WI\Algo\Skript\Aufgaben 7 bis 8\obj\Debug\Aufgaben 7 bis 8.csproj.CoreCompileInputs.cache
+C:\GitHub\WI\Algo\Skript\Aufgaben 7 bis 8\bin\Debug\Aufgaben 7 bis 8.exe.config
+C:\GitHub\WI\Algo\Skript\Aufgaben 7 bis 8\bin\Debug\Aufgaben 7 bis 8.exe
+C:\GitHub\WI\Algo\Skript\Aufgaben 7 bis 8\bin\Debug\Aufgaben 7 bis 8.pdb
+C:\GitHub\WI\Algo\Skript\Aufgaben 7 bis 8\obj\Debug\Aufgaben 7 bis 8.exe
+C:\GitHub\WI\Algo\Skript\Aufgaben 7 bis 8\obj\Debug\Aufgaben 7 bis 8.pdb

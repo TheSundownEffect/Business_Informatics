@@ -1,0 +1,6 @@
+C:\GitHub\WI\Algo\Skript\Aufgaben 9 bis 18\bin\Debug\Aufgaben 9 bis 18.exe.config
+C:\GitHub\WI\Algo\Skript\Aufgaben 9 bis 18\bin\Debug\Aufgaben 9 bis 18.exe
+C:\GitHub\WI\Algo\Skript\Aufgaben 9 bis 18\bin\Debug\Aufgaben 9 bis 18.pdb
+C:\GitHub\WI\Algo\Skript\Aufgaben 9 bis 18\obj\Debug\Aufgaben 9 bis 18.csproj.CoreCompileInputs.cache
+C:\GitHub\WI\Algo\Skript\Aufgaben 9 bis 18\obj\Debug\Aufgaben 9 bis 18.exe
+C:\GitHub\WI\Algo\Skript\Aufgaben 9 bis 18\obj\Debug\Aufgaben 9 bis 18.pdb

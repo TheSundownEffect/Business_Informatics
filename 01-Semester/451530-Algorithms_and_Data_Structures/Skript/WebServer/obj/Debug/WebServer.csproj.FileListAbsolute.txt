@@ -1,0 +1,7 @@
+C:\GitHub\WI\Algo\Skript\WebServer\obj\Debug\WebServer.csprojAssemblyReference.cache
+C:\GitHub\WI\Algo\Skript\WebServer\obj\Debug\WebServer.csproj.CoreCompileInputs.cache
+C:\GitHub\WI\Algo\Skript\WebServer\bin\Debug\WebServer.exe.config
+C:\GitHub\WI\Algo\Skript\WebServer\bin\Debug\WebServer.exe
+C:\GitHub\WI\Algo\Skript\WebServer\bin\Debug\WebServer.pdb
+C:\GitHub\WI\Algo\Skript\WebServer\obj\Debug\WebServer.exe
+C:\GitHub\WI\Algo\Skript\WebServer\obj\Debug\WebServer.pdb
