@@ -2,22 +2,21 @@
 
 Repository for my current study course "Business Informatics" at the University in Flensburg with the goal of the university degree: "Bachelor of Science" 
 
-**Table of Contents**
+----
 
 ![](https://i.imgur.com/zHwgxCz.png)
 
+**Table of Contents**
 
-
-[TOCM]
-
-[TOC]
-
-# H1 header
-## H2 header
+# **Table of Contents**
+## #1 Semester
+## #2 Semester
+## #3 Semester
+## #4 Semester
+## #5 Semester
+## #6 Semester
 ### H3 header
-#### H4 header
-##### H5 header
-###### H6 header
+
 # Heading 1 link [Heading link](https://github.com/SundownEffect/Business_Informatics/editor.md "Heading link")
 ## Heading 2 link [Heading link](https://github.com/SundownEffect/Business_Informatics/editor.md "Heading link")
 ### Heading 3 link [Heading link](https://github.com/SundownEffect/Business_Informatics/editor.md "Heading link")
