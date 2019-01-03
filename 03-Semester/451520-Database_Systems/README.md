@@ -7,6 +7,7 @@ Repository for my current study course "Business Informatics" at the University 
 ## Connect to the Database-Server
 
 Server (DNS) name: goliath.wi.fh-flensburg.de
+
 Make sure you select Authentication: "Windows Authentication"
 
 > Create a new Batch-File!
