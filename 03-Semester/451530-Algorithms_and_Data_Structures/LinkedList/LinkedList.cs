@@ -169,5 +169,14 @@ namespace LinkedList
 
             return content;
         }
+
+        public void Clear()
+        {
+            if (_first != null)
+            {
+                _first = _last = null;
+                Count = 0;
+            }
+        }
     }
 }
