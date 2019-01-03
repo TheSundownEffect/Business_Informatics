@@ -85,6 +85,25 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashMap", "HashMap\HashMap.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{1A600110-7B07-4C96-A15F-2BE2381CE6F9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Testdaten", "_Testdaten", "{30FB3990-708F-433F-8326-3F04069F642C}"
+	ProjectSection(SolutionItems) = preProject
+		_Testdaten\blz.csv = _Testdaten\blz.csv
+		_Testdaten\forum.txt = _Testdaten\forum.txt
+		_Testdaten\german(unsortiert).dic = _Testdaten\german(unsortiert).dic
+		_Testdaten\german.dic = _Testdaten\german.dic
+		_Testdaten\index.html = _Testdaten\index.html
+		_Testdaten\lovelace.txt = _Testdaten\lovelace.txt
+		_Testdaten\PersonenDubletten.csv = _Testdaten\PersonenDubletten.csv
+		_Testdaten\sample.ps = _Testdaten\sample.ps
+		_Testdaten\simple.ps = _Testdaten\simple.ps
+		_Testdaten\sonnenbrand(einfach).csv = _Testdaten\sonnenbrand(einfach).csv
+		_Testdaten\sonnenbrand.csv = _Testdaten\sonnenbrand.csv
+		_Testdaten\style.css = _Testdaten\style.css
+		_Testdaten\unternehmen.csv = _Testdaten\unternehmen.csv
+		_Testdaten\wetter.csv = _Testdaten\wetter.csv
+		_Testdaten\ZIPCodes.csv = _Testdaten\ZIPCodes.csv
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

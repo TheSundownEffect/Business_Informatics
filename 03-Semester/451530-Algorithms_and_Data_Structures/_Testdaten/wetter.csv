@@ -1,0 +1,15 @@
+Tennis;Aussichten;Temperatur;Feuchtigkeit;Wind
+nein;sonnig;heiß;hoch;falsch
+nein;sonnig;heiß;hoch;wahr
+ja;bewölkt;heiß;hoch;falsch
+ja;regnerisch;mild;hoch;falsch
+ja;regnerisch;kalt;normal;falsch
+nein;regnerisch;kalt;normal;wahr
+ja;bewölkt;kalt;normal;wahr
+nein;sonnig;mild;hoch;falsch
+ja;sonnig;kalt;normal;falsch
+ja;regnerisch;mild;normal;falsch
+ja;sonnig;mild;normal;wahr
+ja;bewölkt;mild;hoch;wahr
+ja;bewölkt;heiß;normal;falsch
+nein;regnerisch;mild;hoch;wahr

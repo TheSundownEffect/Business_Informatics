@@ -1,0 +1,5 @@
+Augusta Ada Byron King, Countess of Lovelace, allgemein als Ada Lovelace bekannt, geboren als Augusta Ada Byron 1815 in London war eine britische Mathematikerin. 
+Für einen nie fertiggestellten mechanischen Computer, die Analytical Engine, schrieb sie das erste Programm. 
+Aus diesem Grund wird sie als erste Programmiererin der Welt betrachtet, noch vor dem ersten männlichen Kollegen. 
+Die Programmiersprache Ada und die Lovelace Medal wurden nach ihr benannt.
+Quelle: Wikipedia
