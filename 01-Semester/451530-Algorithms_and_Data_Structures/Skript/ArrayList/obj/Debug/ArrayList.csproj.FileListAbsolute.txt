@@ -1,6 +1,0 @@
-C:\GitHub\WI\Algo\Skript\ArrayList\bin\Debug\ArrayList.exe.config
-C:\GitHub\WI\Algo\Skript\ArrayList\bin\Debug\ArrayList.exe
-C:\GitHub\WI\Algo\Skript\ArrayList\bin\Debug\ArrayList.pdb
-C:\GitHub\WI\Algo\Skript\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
-C:\GitHub\WI\Algo\Skript\ArrayList\obj\Debug\ArrayList.exe
-C:\GitHub\WI\Algo\Skript\ArrayList\obj\Debug\ArrayList.pdb

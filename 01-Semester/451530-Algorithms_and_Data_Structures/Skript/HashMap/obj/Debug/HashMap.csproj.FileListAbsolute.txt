@@ -1,7 +1,0 @@
-C:\GitHub\WI\Algo\Skript\HashMap\bin\Debug\HashMap.exe.config
-C:\GitHub\WI\Algo\Skript\HashMap\bin\Debug\HashMap.exe
-C:\GitHub\WI\Algo\Skript\HashMap\bin\Debug\HashMap.pdb
-C:\GitHub\WI\Algo\Skript\HashMap\obj\Debug\HashMap.csprojAssemblyReference.cache
-C:\GitHub\WI\Algo\Skript\HashMap\obj\Debug\HashMap.csproj.CoreCompileInputs.cache
-C:\GitHub\WI\Algo\Skript\HashMap\obj\Debug\HashMap.exe
-C:\GitHub\WI\Algo\Skript\HashMap\obj\Debug\HashMap.pdb

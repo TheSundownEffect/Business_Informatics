@@ -1,7 +1,0 @@
-C:\GitHub\WI\Algo\Skript\Referenz- und Werttypen\bin\Debug\Referenz- und Werttypen.exe.config
-C:\GitHub\WI\Algo\Skript\Referenz- und Werttypen\bin\Debug\Referenz- und Werttypen.exe
-C:\GitHub\WI\Algo\Skript\Referenz- und Werttypen\bin\Debug\Referenz- und Werttypen.pdb
-C:\GitHub\WI\Algo\Skript\Referenz- und Werttypen\obj\Debug\Referenz- und Werttypen.csprojAssemblyReference.cache
-C:\GitHub\WI\Algo\Skript\Referenz- und Werttypen\obj\Debug\Referenz- und Werttypen.csproj.CoreCompileInputs.cache
-C:\GitHub\WI\Algo\Skript\Referenz- und Werttypen\obj\Debug\Referenz- und Werttypen.exe
-C:\GitHub\WI\Algo\Skript\Referenz- und Werttypen\obj\Debug\Referenz- und Werttypen.pdb

@@ -1,6 +1,0 @@
-C:\GitHub\WI\Algo\Skript\Stack\bin\Debug\Stack.exe.config
-C:\GitHub\WI\Algo\Skript\Stack\bin\Debug\Stack.exe
-C:\GitHub\WI\Algo\Skript\Stack\bin\Debug\Stack.pdb
-C:\GitHub\WI\Algo\Skript\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
-C:\GitHub\WI\Algo\Skript\Stack\obj\Debug\Stack.exe
-C:\GitHub\WI\Algo\Skript\Stack\obj\Debug\Stack.pdb

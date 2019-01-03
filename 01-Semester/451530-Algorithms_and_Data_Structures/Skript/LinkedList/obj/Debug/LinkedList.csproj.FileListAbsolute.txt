@@ -1,7 +1,0 @@
-C:\GitHub\WI\Algo\Skript\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
-C:\GitHub\WI\Algo\Skript\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
-C:\GitHub\WI\Algo\Skript\LinkedList\bin\Debug\LinkedList.exe.config
-C:\GitHub\WI\Algo\Skript\LinkedList\bin\Debug\LinkedList.exe
-C:\GitHub\WI\Algo\Skript\LinkedList\bin\Debug\LinkedList.pdb
-C:\GitHub\WI\Algo\Skript\LinkedList\obj\Debug\LinkedList.exe
-C:\GitHub\WI\Algo\Skript\LinkedList\obj\Debug\LinkedList.pdb
