@@ -6,34 +6,19 @@ Repository for my current study course "Business Informatics" at the University 
 
 ![](https://i.imgur.com/zHwgxCz.png)
 
-**Table of Contents**
-
 # **Table of Contents**
 ## #1 Semester
+### Basics of programming
 ## #2 Semester
+### Development of User-Interfaces
+### Statistics
 ## #3 Semester
 ## #4 Semester
 ## #5 Semester
 ## #6 Semester
-### H3 header
 
-# Heading 1 link [Heading link](https://github.com/SundownEffect/Business_Informatics/editor.md "Heading link")
-## Heading 2 link [Heading link](https://github.com/SundownEffect/Business_Informatics/editor.md "Heading link")
-### Heading 3 link [Heading link](https://github.com/SundownEffect/Business_Informatics/editor.md "Heading link")
-#### Heading 4 link [Heading link](https://github.com/SundownEffect/Business_Informatics/editor.md "Heading link") Heading link [Heading link](https://github.com/SundownEffect/Business_Informatics/editor.md "Heading link")
-##### Heading 5 link [Heading link](https://github.com/SundownEffect/Business_Informatics/editor.md "Heading link")
-###### Heading 6 link [Heading link](https://github.com/SundownEffect/Business_Informatics/editor.md "Heading link")
 
-##Headers (Underline)
-
-H1 Header (Underline)
-=============
-
-H2 Header (Underline)
--------------
-
-###Characters
-                
+# Markup-Template
 ----
 
 ~~Strikethrough~~ <s>Strikethrough (when enable html tag decode.)</s>
