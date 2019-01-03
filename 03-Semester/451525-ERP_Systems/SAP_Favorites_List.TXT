@@ -1,0 +1,39 @@
+  0000100003                                                01 Materialwirtschaft                                                                                                               
+  0000100013                                                02 Vertrieb und Distribution                                                                                                        
+  0000100020                                                03 Produktionsplanung und -steuerung                                                                                                
+  0000100028                                                04 Finanzwesen                                                                                                                      
+  0000100005                                                05 Kostenrechnung                                                                                                                   
+  0000100027                                                06 Organisationseinheiten                                                                                                           
+  0000300030                                                Miniprojekt                                                                                                                         
+TR0000300012MMBE                                            Bestandsübersicht                                                                                                                   
+TR0000300011MIGO                                            Warenbewegung                                                                                                                       
+TR0000300010ME21N                                           Bestellung anlegen                                                                                                                  
+TR0000300009MK01                                            Anlegen Kreditor (Einkauf)                                                                                                          
+TR0000300008MM01                                            Materialstamm -> Material -> Anlegen allgemein -> Sofort                                            AC2B556AFDD7D211A81C0060B03C2BA7
+TR0000500024KS01                                            Kostenstelle anlegen                                                                                                                
+TR0000500026KSBL                                            Kostenstellen: Planungsübersicht                                                                                                    
+  0000500025                                                nicht Klausurrelevant                                                                                                               
+  0001300031                                                Miniprojekt                                                                                                                         
+TR0001300014XD01                                            Anlegen Debitor (Zentral)                                                                                                           
+TR0001300015VA01                                            Kundenauftrag anlegen                                                                                                               
+TR0001300019VL01N                                           Auslieferung zum Kd.auftrag anlegen                                                                                                 
+TR0001300018VL02N                                           Auslieferung ändern                                                                                                                 
+TR0001300017VF01                                            Anlegen Faktura                                                                                                                     
+TR0001300016F-06                                            Zahlungseingang buchen                                                                                                              
+  0002000034                                                Miniprojekt                                                                                                                         
+TR0002000023MD04                                            Anzeigen Bestands-/Bedarfssituation                                                                                                 
+TR0002000022MD02                                            MRP-Einzelplanung -mehrstufig-                                                                                                      
+TR0002000021MD61                                            Hinzufügen Vorplanung                                                                                                               
+TR0002800039FS00                                            Sachkontenstammdatenpflege                                                                                                          
+TR0002800038MR51                                            Material Einzelposten                                                                                                               
+TR0002800037FD10N                                           Saldenanzeige Debitoren                                                                                                             
+TR0002500006KL01                                            Leistungsart anlegen                                                                                                                
+TR0002500004KP26                                            Leistungsarten Plandaten ändern                                                                                                     
+TR0002500007KP06                                            Planung Kostenart./Leistaufn. ändern                                                                                                
+TR0003000029MM11                                            Material & geplant anlegen                                                                                                          
+TR0003100032VK31                                            Konditionspflege: Anlegen                                                                                                           
+TR0003100033VA21                                            Angebot anlegen                                                                                                                     
+TR0003400035CS01                                            Anlegen Materialstückliste                                                                                                          
+TR0003400036CA01                                            Anlegen Normalarbeitsplan                                                                                                           
+TR0003400041CO01                                            Hinzufügen Fertigungsauftrag                                                                                                        
+TR0003400040MB31                                            Bestandsführung -> Warenbewegung -> Wareneingang -> Zum Auftrag                                     17272ADFADD7D211AE6A00A0C9EAD00F
