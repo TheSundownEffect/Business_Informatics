@@ -26,10 +26,10 @@ student
 Source: http://bike.oth-regensburg.de/Downloads.html
 
 
-![](https://raw.githubusercontent.com/SundownEffect/Business_Informatics/master/03-Semester/451520-Database_Systems/DB-Diagram_Bike.png)
+![](https://raw.githubusercontent.com/SundownEffect/Business_Informatics/master/03-Semester/451520-Database_Systems/_images/DB-Diagram_Bike.png)
 
 
 
 ### KartoFinale Database:
 
-![](https://raw.githubusercontent.com/SundownEffect/Business_Informatics/master/03-Semester/451520-Database_Systems/DB-Diagram_KartoFinale.png)
+![](https://raw.githubusercontent.com/SundownEffect/Business_Informatics/master/03-Semester/451520-Database_Systems/_images/DB-Diagram_KartoFinale.png)
