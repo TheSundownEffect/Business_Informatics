@@ -4,6 +4,11 @@ Repository for my current study course "Business Informatics" at the University 
 
 ----
 
+## Useful Hyperlinks:
+
+- http://www.datenbanken-verstehen.de/
+
+
 ## Connect to the Database-Server
 
 Server (DNS) name: goliath.wi.fh-flensburg.de
