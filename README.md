@@ -1,4 +1,6 @@
-# WEB
+# SundownEffect / Business_Informatics
+
+Repository for my current study course "Business Informatics" at the University in Flensburg with the goal of the university degree: "Bachelor of Science" 
 
 ###Features
 
@@ -29,12 +31,12 @@
 ####H4 header
 #####H5 header
 ######H6 header
-#Heading 1 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-##Heading 2 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-###Heading 3 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-####Heading 4 link [Heading link](https://github.com/pandao/editor.md "Heading link") Heading link [Heading link](https://github.com/pandao/editor.md "Heading link")
-#####Heading 5 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-######Heading 6 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+#Heading 1 link [Heading link](https://github.com/SundownEffect/Business_Informatics/editor.md "Heading link")
+##Heading 2 link [Heading link](https://github.com/SundownEffect/Business_Informatics/editor.md "Heading link")
+###Heading 3 link [Heading link](https://github.com/SundownEffect/Business_Informatics/editor.md "Heading link")
+####Heading 4 link [Heading link](https://github.com/SundownEffect/Business_Informatics/editor.md "Heading link") Heading link [Heading link](https://github.com/SundownEffect/Business_Informatics/editor.md "Heading link")
+#####Heading 5 link [Heading link](https://github.com/SundownEffect/Business_Informatics/editor.md "Heading link")
+######Heading 6 link [Heading link](https://github.com/SundownEffect/Business_Informatics/editor.md "Heading link")
 
 ##Headers (Underline)
 
