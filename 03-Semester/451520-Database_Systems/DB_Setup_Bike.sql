@@ -1,4 +1,27 @@
-﻿SELECT 'Installation der BIKE-Datenbank. Bitte etwas Geduld';
+﻿/*
+# --------------------------------------------------------
+# Installation der BIKE-Datenbank fuer MySQL
+#
+#   zum Starten mit MySQL Work Bench
+#                         Edwin Schicker, Februar 2013
+# --------------------------------------------------------
+# Installationshinweise:
+#    1. Starten Sie MySQL Workbench, 
+#       Klicken Sie auf "Open Connection to Start Querying"
+#       Geben Sie als Username ein: root
+#       Verwenden Sie das Admin Passwort
+#    2. Erzeugen Sie eine Datenbank, falls noch nicht geschehen
+#       mittels des Befehls (im Query-Fenster):
+#                      CREATE DATABASE bike; 
+#       und klicken Sie auf den Execute-Button 
+#       Ansonsten klicken Sie auf das Schema bike
+#    2. Öffnen Sie das Skript
+#                      bikeMySQL.sql
+#       und starten Sie es durch Klick auf den Execute-Button
+#       
+*/
+
+SELECT 'Installation der BIKE-Datenbank. Bitte etwas Geduld';
 
 
 /* Es werden eventuell noch existierende Tabellen geloescht */
