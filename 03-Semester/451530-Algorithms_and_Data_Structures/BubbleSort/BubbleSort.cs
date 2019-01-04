@@ -8,32 +8,47 @@
 
 #region Library of Alexandria
 using System;
+using System.Collections.Generic;
 
 #endregion
 
 namespace BubbleSort
 {
-    class BubbleSort
+    public static class BubbleSort
     {
-        public static void Bubble_Sort(int[] a)
+        public static void Bubble_Sort(this IList<T> collection, Comparer<T> comparer = null)
         {
-            int temp = 0;
+            comparer = comparer ?? Comparer<T>.Default;
+            collection.BubbleSortAscending(comparer);
+        }
 
-            for (int write = 0; write < a.Length; write++)
+        public static void BubbleSortAscending<T>(this IList<T> collection, Comparer<T> comparer)
+        {
+            for (int i = 0; i < collection.Count; i++)
             {
-                for (int sort = 0; sort < a.Length - 1; sort++)
+                for (int index = 0; index < collection.Count - 1; index++)
                 {
-                    if (a[sort] > a[sort + 1])
+                    if (comparer.Compare(collection[index], collection[index + 1]) > 0)
                     {
-                        temp = a[sort + 1];
-                        a[sort + 1] = a[sort];
-                        a[sort] = temp;
+                        collection.Swap(index, index + 1);
                     }
                 }
             }
-
-            for (int i = 0; i < a.Length; i++)
-                Console.Write(a[i] + " ");
         }
+
+        public static void BubbleSortDescending<T>(this IList<T> collection, Comparer<T> comparer)
+        {
+            for (int i = 0; i < collection.Count - 1; i++)
+            {
+                for (int index = 1; index < collection.Count - i; index++)
+                {
+                    if (comparer.Compare(collection[index], collection[index - 1]) > 0)
+                    {
+                        collection.Swap(index - 1, index);
+                    }
+                }
+            }
+        }
+
     }
 }
