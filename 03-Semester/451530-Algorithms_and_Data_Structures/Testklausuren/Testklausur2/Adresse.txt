@@ -1,0 +1,3 @@
+PLZ;Ort;Straße;Hausnummer;Name
+25879;Süderstapel;Am Streng;2;Bräunlich
+24943;Flensburg;Kantstraße;53;Hinz

@@ -22,14 +22,37 @@ namespace Testklausur2
 
         public void Add(T item)
         {
-
             // 7. Aufgabe
-            throw new NotImplementedException();
+            if(root == null)
+            {
+                var node = new node<T>
+                {
+                    Item = item
+                };
 
-
-
-
-
+                root = node;
+            }
+            else
+            {
+                var node = root;
+                while (item.CompareTo(node.Item) < 0 || item.CompareTo(node.Item) > 0)
+                {        
+                    if (item.CompareTo(node.Item) <= 0)
+                    {
+                        if (node.Left == null)
+                            node.Left = new node<T>() { Item = item };
+                        else
+                            node = node.Left;
+                    } else
+                    {
+                        if (node.Right == null)
+                            node.Right = new node<T>() { Item = item };
+                        else
+                            node = node.Right;
+                    }
+                }
+            }
+            Count++;
         }
 
         public override string ToString()
