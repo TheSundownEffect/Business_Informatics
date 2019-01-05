@@ -26,7 +26,7 @@ namespace Aufgaben_4_bis_7
             foreach(int i in elements)
             {
                 zahl = i ^ 2;
-                if (zahl % 100)
+                if ((zahl % 100) > 0)
                     Console.WriteLine(zahl);
             }
             #region Lösung zu Aufgabe 4
@@ -37,7 +37,7 @@ namespace Aufgaben_4_bis_7
             int n = 10;
             for (int i = 0; i < n; i++)
             {
-                if (i % 2)
+                if ((i % 2) > 0)
                     i++;
             }
             #region Lösung zu Aufgabe 5
@@ -45,6 +45,7 @@ namespace Aufgaben_4_bis_7
             #endregion
 
             /* * * * Aufgabe 6 * * * */
+            int summe = 0;
             for (int i = 0; i < n; i++)
             {
                 for (int j = 0; j < n; j++)

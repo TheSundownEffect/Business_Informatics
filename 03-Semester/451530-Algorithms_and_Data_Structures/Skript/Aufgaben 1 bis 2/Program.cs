@@ -1,7 +1,8 @@
 ﻿/* * * * * * *
- * Title:   Referenz- und Werttypen
+ * Title:   Aufgaben 1 bis 2
+ * Class:   Program.cs
  * Author:  Christian B.
- * Date:    01.01.2019
+ * Date:    05.01.2019
  * 
 */
 
@@ -13,12 +14,42 @@ using System.Text;
 using System.Threading.Tasks;
 
 #endregion
-namespace Referenz__und_Werttypen
+
+
+/* Aufgabe 1:
+ * Lesen Sie auf wikipedia.de über die Begriffe Datentyp,Datenstruktur, Klasse und Objekt.
+ * Diskutieren Sie mit Ihrem Nachbarn und grenzen Sie die Begriffe voneinander ab!
+ * Wodurch unterscheiden sich die Begriffe?
+ */
+
+    #region Lösung: Aufgabe 1
+    // Datentyp:        https://de.wikipedia.org/wiki/Datentyp
+    // Datenstruktur:   https://de.wikipedia.org/wiki/Datenstruktur
+    // Objekttyp:       https://de.wikipedia.org/wiki/Klasse_(Objektorientierung)
+    // Objekt:          https://de.wikipedia.org/wiki/Objekt_(Programmierung)
+
+    /* Datentyp:
+     *  Beschreibung der in ihm gespeicherten Werte und darauf auszuführenden Methoden/Operationen  */
+    /* Datenstruktur:
+     *  Datentyp, i.e.S. allgemein einsetzbare Datentypen wie Listen-, Baumstrukturen usw.          */
+
+    #endregion
+
+
+/* Aufgabe 2:
+ * Erstellen Sie ein Projekt in Visual Studio 2017für das Beispiel aus den Folien 10, 11 und 12.
+ * Sehen Sie sich im Debugger die Veränderungen der Übergabeparameter im Arbeitsspeicher an!
+ */
+
+
+
+namespace Aufgaben_1_bis_2
 {
     class Program
     {
         static void Main(string[] args)
         {
+            #region Lösung: Aufgabe 2
             // Werttyp
             int z1 = 0;
             change(z1);
@@ -67,5 +98,7 @@ namespace Referenz__und_Werttypen
         {
             public int zahl1;
         }
+
+        #endregion
     }
 }

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{979EFDB4-703B-44C5-82B3-9CB0B267DCD0}</ProjectGuid>
+    <ProjectGuid>{35E738EC-FEBA-4125-907E-6C03366F0EE1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Referenz__und_Werttypen</RootNamespace>
-    <AssemblyName>Referenz- und Werttypen</AssemblyName>
+    <RootNamespace>Hausaufgabe_4</RootNamespace>
+    <AssemblyName>Hausaufgabe 4</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

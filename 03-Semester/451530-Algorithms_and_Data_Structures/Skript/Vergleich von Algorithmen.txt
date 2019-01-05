@@ -1,0 +1,22 @@
+
+2. Vergleich von Algorithmen
+
+Wie können zwei Algorithmen verglichen werden, die das gleiche Problem lösen?
+
+	1) Zeit und Arbeitsspeicher messen bei gleichen Eingabewerten
+
+	Probleme: 
+		- abhängig von Leistung des Computers
+		- keine weiteren Hintergrundprogramme
+		- Genialität des Programmierers
+		- Anzahl zu bearbeitender Eingabewerte (Problemgröße)
+
+	2) Zählen und gewichten der Rechenschritte
+
+	Probleme: 
+		- hoher Aufwand
+
+	3) Grobes Zählen der Rechenschritte
+		- Aufwand geringer als bei 2)
+		- nur den am schnellsten wachsenden Term berücksichtigen (Komplexitätsklasse)
+

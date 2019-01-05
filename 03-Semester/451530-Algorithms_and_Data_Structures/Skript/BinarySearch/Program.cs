@@ -19,9 +19,15 @@ namespace BinarySearch
         {
             var list = new SortedList<int>();
             list.AddRange(new int[] { 7, 3, 5, 9, 4, 1 });
-            //list.BubbleSort();
             list.QuickSort();
+            Console.WriteLine("MyAlgo:");
+            Console.WriteLine(BinarySearch.binarySearchRecursive(list.ToArray(), 5, 1, 9));
 
+            Console.WriteLine(list.BinarySearch(5));
+            //list.BubbleSort();
+            
+            Console.WriteLine(list.BinarySearch(5));
+            
             Console.WriteLine(list.ToString());
 
             Console.WriteLine("Weiter mit beliebiger Taste . . .");

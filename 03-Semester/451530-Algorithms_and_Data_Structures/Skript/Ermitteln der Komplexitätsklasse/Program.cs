@@ -20,19 +20,24 @@ namespace Ermitteln_der_Komplexitätsklasse
     {
         static void Main(string[] args)
         {
-            GetCount();
+            int[] myTempArray = new int[] { 1, 4, 9, 10 };
+            GetCount(myTempArray);
 
-            GetCount2();
+            GetCount2(myTempArray);
 
-            foreach (n1 in werte)            //quadratisch
+            int sum = 0;
+            foreach (var n1 in myTempArray)            //quadratisch
             {
-                foreach (n2 in werte)
-                    if (n1 == n2) …
+                foreach (var n2 in myTempArray)
+                    if (n1 == n2)
+                        sum += n1 + n2 + n3;
             }
+            Console.WriteLine(sum);
 
-            foreach (n1 in werte)            //polynomial
-                foreach (n2 in werte)
-                    foreach (n3 in werte)
+            sum = 0;
+            foreach (var n1 in myTempArray)            //polynomial
+                foreach (var n2 in myTempArray)
+                    foreach (var n3 in myTempArray)
                         sum += n1 + n2 + n3;
 
         }

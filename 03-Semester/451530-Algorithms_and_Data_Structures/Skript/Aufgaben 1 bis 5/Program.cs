@@ -8,6 +8,7 @@
 
 #region Bibliothek von Alexandria
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -71,12 +72,77 @@ Aufgabe 7:
 
 * * */
 
-namespace Aufgaben_1_bis_5
+namespace Aufgaben_1_bis_7
 {
     class Program
     {
         static void Main(string[] args)
         {
+            // LinkedList instanziieren
+            var list = new LinkedList<string>();
+
+            #region Lösung: Aufgabe 3
+            list.Add("Erster Wert");
+            list.Add("Zweiter Wert");
+            list.Add("Dritter Wert");
+            list.Add("Vierter Wert");
+            list.Add("Fünfter Wert");
+            list.Add("Sechster Wert");
+            list.Add("Siebter Wert");
+            list.Add("Achter Wert");
+            list.Add("Neunter Wert");
+            list.Add("Zehnter Wert");
+
+            for (int i = 0; i < list.Count; i++)
+            {
+                Console.Write(i + " -> ");
+            }
+
+            #endregion
+
+
+            #region Lösung: Aufgabe 4
+            IEnumerator iterator = list.GetEnumerator();
+
+            while (iterator.MoveNext())
+            {
+                Console.WriteLine(iterator.Current);
+            }
+            //iterator.Reset();
+
+            foreach (string name in list)
+                Console.WriteLine(name);
+
+            #endregion
+
+
+            foreach (string name in list)
+            {
+                Console.WriteLine(name);
+            }
+
+            #region Lösung: Aufgabe 7
+            new A<string>.B.C().M();
+
+            #endregion
+
+
+            Console.WriteLine(list);
+
+            Console.WriteLine("Weiter mit ENTER . . .");
+            Console.ReadLine();
+        }
+
+        public class A<T>
+        {
+            public class B : A<int>
+            {
+                public void M()
+                {
+                    Console.WriteLine(typeof(T));
+                }
+                public class C : B { }
+            }
         }
     }
 }

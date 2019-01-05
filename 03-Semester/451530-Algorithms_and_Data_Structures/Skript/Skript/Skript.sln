@@ -85,39 +85,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashMap", "HashMap\HashMap.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{1A600110-7B07-4C96-A15F-2BE2381CE6F9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Testdaten", "_Testdaten", "{30FB3990-708F-433F-8326-3F04069F642C}"
-	ProjectSection(SolutionItems) = preProject
-		_Testdaten\blz.csv = _Testdaten\blz.csv
-		_Testdaten\forum.txt = _Testdaten\forum.txt
-		_Testdaten\german(unsortiert).dic = _Testdaten\german(unsortiert).dic
-		_Testdaten\german.dic = _Testdaten\german.dic
-		_Testdaten\index.html = _Testdaten\index.html
-		_Testdaten\lovelace.txt = _Testdaten\lovelace.txt
-		_Testdaten\PersonenDubletten.csv = _Testdaten\PersonenDubletten.csv
-		_Testdaten\sample.ps = _Testdaten\sample.ps
-		_Testdaten\simple.ps = _Testdaten\simple.ps
-		_Testdaten\sonnenbrand(einfach).csv = _Testdaten\sonnenbrand(einfach).csv
-		_Testdaten\sonnenbrand.csv = _Testdaten\sonnenbrand.csv
-		_Testdaten\style.css = _Testdaten\style.css
-		_Testdaten\unternehmen.csv = _Testdaten\unternehmen.csv
-		_Testdaten\wetter.csv = _Testdaten\wetter.csv
-		_Testdaten\ZIPCodes.csv = _Testdaten\ZIPCodes.csv
-	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{5491CE42-07EE-4488-817F-E15A29F8AE74}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2.1 LinearSearch", "4.2.1 LinearSearch", "{29CD7603-9C20-42E8-A613-A1F368AFA001}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2.2 QuickSort", "4.2.2 QuickSort", "{4EC36CED-FEB9-4335-8889-14ECBEF75D49}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2.3 BubbleSort", "4.2.3 BubbleSort", "{EA1B214D-7B81-45A9-80D8-115C6F110068}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearSearch", "LinearSearch\LinearSearch.csproj", "{CEEC8121-DCC5-4D68-B03B-788C0963348F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{AF0C7822-1DD1-405D-A43E-FABDCAD23EEC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{B2CA188F-5DAD-47E5-9E7A-B47BF69E1AA5}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -200,22 +167,6 @@ Global
 		{1A600110-7B07-4C96-A15F-2BE2381CE6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A600110-7B07-4C96-A15F-2BE2381CE6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A600110-7B07-4C96-A15F-2BE2381CE6F9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5491CE42-07EE-4488-817F-E15A29F8AE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5491CE42-07EE-4488-817F-E15A29F8AE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5491CE42-07EE-4488-817F-E15A29F8AE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5491CE42-07EE-4488-817F-E15A29F8AE74}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CEEC8121-DCC5-4D68-B03B-788C0963348F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CEEC8121-DCC5-4D68-B03B-788C0963348F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CEEC8121-DCC5-4D68-B03B-788C0963348F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CEEC8121-DCC5-4D68-B03B-788C0963348F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AF0C7822-1DD1-405D-A43E-FABDCAD23EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AF0C7822-1DD1-405D-A43E-FABDCAD23EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AF0C7822-1DD1-405D-A43E-FABDCAD23EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AF0C7822-1DD1-405D-A43E-FABDCAD23EEC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B2CA188F-5DAD-47E5-9E7A-B47BF69E1AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B2CA188F-5DAD-47E5-9E7A-B47BF69E1AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B2CA188F-5DAD-47E5-9E7A-B47BF69E1AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B2CA188F-5DAD-47E5-9E7A-B47BF69E1AA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -257,13 +208,6 @@ Global
 		{49D5462B-A624-44C3-A014-E76D1706F481} = {030654C3-9D43-44B3-92EA-2C3F0DFF9592}
 		{D95D1955-A04E-4D42-89D4-D6AB0DB3CC19} = {FD352B68-8756-4396-A705-08482BE3A792}
 		{1A600110-7B07-4C96-A15F-2BE2381CE6F9} = {07024844-A75B-4601-A876-2B0351461D20}
-		{5491CE42-07EE-4488-817F-E15A29F8AE74} = {AC737AA3-C0D9-47B2-81D8-3363BC9D5885}
-		{29CD7603-9C20-42E8-A613-A1F368AFA001} = {31508CD6-1372-491B-8BAC-0A7880470C80}
-		{4EC36CED-FEB9-4335-8889-14ECBEF75D49} = {31508CD6-1372-491B-8BAC-0A7880470C80}
-		{EA1B214D-7B81-45A9-80D8-115C6F110068} = {31508CD6-1372-491B-8BAC-0A7880470C80}
-		{CEEC8121-DCC5-4D68-B03B-788C0963348F} = {29CD7603-9C20-42E8-A613-A1F368AFA001}
-		{AF0C7822-1DD1-405D-A43E-FABDCAD23EEC} = {4EC36CED-FEB9-4335-8889-14ECBEF75D49}
-		{B2CA188F-5DAD-47E5-9E7A-B47BF69E1AA5} = {EA1B214D-7B81-45A9-80D8-115C6F110068}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C239A59A-1B25-44AF-90CB-C97FEDE88FBC}

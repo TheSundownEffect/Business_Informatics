@@ -46,8 +46,6 @@ namespace Aufgabe_8
         static void Main(string[] args)
         {
 
-
-
         }
 
         #region Lösung: Aufgabe 8_a)
@@ -80,9 +78,8 @@ namespace Aufgabe_8
                 return 1;
 
             return n * FactorialRecursive(n - 1);
-
-
         }
+
         #endregion
     }
 }

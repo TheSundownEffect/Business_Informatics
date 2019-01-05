@@ -1,0 +1,12 @@
+
+2. [ Ziel der Veranstaltung ]
+
+	- Wie sollte ich meine Algorithmen entwerfen?
+
+	- Welche allgemeinen Datenstrukturen und Algorithmen gibt es?
+
+	- Wie kann ich vorhandene Algorithmen implementieren?
+
+	- Welche Datenstrukturen und welche Algorithmen sollte man wann nutzen?
+
+	- Motto: Wie werde ich ein noch besserer Softwareentwickler

@@ -15,17 +15,17 @@ namespace BinarySearch
 {
     public class BinarySearch
     {
-        public static bool binarySearchRecursive(int[] array, int x, int left, int right)
+        public static int binarySearchRecursive(int[] array, int x, int left, int right)
         {
             if (left > right)
             {
-                return false;
+                return -1;
             }
 
             int mid = left + ((right - left)) / 2;
 
             if (array[mid] == x)
-                return true;
+                return mid;
             else if (x < array[mid])
             {
                 return binarySearchRecursive(array, x, left, mid - 1);
