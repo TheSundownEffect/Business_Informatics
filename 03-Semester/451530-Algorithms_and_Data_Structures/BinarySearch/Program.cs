@@ -2,7 +2,7 @@
  * Title:   BinarySearch
  * Class:   Program.cs
  * Author:  Bräunlich, Christian
- * Date:    03.01.2019
+ * Date:    05.01.2019
  * 
 */
 
@@ -17,6 +17,15 @@ namespace BinarySearch
     {
         static void Main(string[] args)
         {
+            var list = new SortedList<int>();
+            list.AddRange(new int[] { 7, 3, 5, 9, 4, 1 });
+            //list.BubbleSort();
+            list.QuickSort();
+
+            Console.WriteLine(list.ToString());
+
+            Console.WriteLine("Weiter mit beliebiger Taste . . .");
+            Console.ReadKey();
         }
     }
 }

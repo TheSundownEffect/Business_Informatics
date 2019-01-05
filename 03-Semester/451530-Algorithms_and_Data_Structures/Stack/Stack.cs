@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace myStack
 {
-    class Stack<T> : ICollection
+    /// <summary>
+    /// The Stack (LIFO) Data Structure.
+    /// </summary>
+    /// <typeparam name="T">Type</typeparam>
+    public class Stack<T> : ICollection
     {
         T[] items = new T[4];
 
