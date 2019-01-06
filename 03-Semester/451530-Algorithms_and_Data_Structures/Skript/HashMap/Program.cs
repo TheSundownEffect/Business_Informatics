@@ -22,7 +22,7 @@ namespace HashMap
     {
         static void Main(string[] args)
         {
-            ZipCodes zipCodes = new ZipCodes(@"C:\GitHub\WI\Algo\Testdaten\ZipCodes.csv");
+            ZipCodes zipCodes = new ZipCodes(@"C:\GitHub\Business_Informatics\03-Semester\451530-Algorithms_and_Data_Structures\Skript\_Testdaten\ZipCodes.csv");
             zipCodes.ReadData();
 
             while (true)

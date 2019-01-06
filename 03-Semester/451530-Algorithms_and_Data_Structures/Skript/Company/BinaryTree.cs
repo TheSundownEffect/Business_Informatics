@@ -17,17 +17,16 @@ using System.Threading.Tasks;
 
 #endregion
 
-namespace BinaryTree
+namespace Company
 {
     public enum TraverseModeEnum { PreOrder, PostOrder, InOrder, ReverseInOrder }
 
-
-    public class BinaryTree<TKey, TValue> where TKey : IComparable<TKey>, IEnumerator
+    public class BinaryTree<T> where T : IComparable<T>
     {
         class Node
         {
-            public TKey Key { get; set; }
-            public TValue Value { get; set; }
+            public T Key { get; set; }
+            //public TValue Value { get; set; }
             public Node nextLeft { get; set; }
             public Node nextRight { get; set; }
         }
@@ -46,100 +45,45 @@ namespace BinaryTree
 
         public int Count { get; private set; }
 
-        public TValue Min
-        {
-            get
-            {
-                if (root == null)
-                    throw new ArgumentException("BinaryTree is empty");
-                Node runNode = root;
-                while (runNode.nextLeft != null)
-                    runNode = runNode.nextLeft;
 
-                return (runNode.Value);
-            }
-        }
-
-        public TValue Max
-        {
-            get
-            {
-                if (root == null)
-                    throw new ArgumentException("BinaryTree is empty");
-                Node runNode = root;
-                while (runNode.nextRight != null)
-                    runNode = runNode.nextRight;
-
-                return (runNode.Value);
-            }
-        }
-
-        #region Indexer
-        public TValue this[TKey key]
-        {
-            get
-            {
-                Node runNode = root;
-                while (runNode != null)
-                {
-                    int c = key.CompareTo(runNode.Key);
-
-                    if (c == 0)
-                    {
-                        return runNode.Value;
-                    }
-                    if (c < 0)
-                    {
-                        runNode = runNode.nextLeft;
-                    }
-                    else
-                    {
-                        runNode = runNode.nextLeft;
-                    }
-                }
-                throw new ArgumentException("Wrong Index");
-            }
-        }
-        #endregion
-
-        public void Add(TKey key, TValue value)
+        public void Add(T key)
         {
             if (root == null)
             {
                 var node = new Node
                 {
-                    Key = key,
-                    Value = value
+                    Key = key
+                   
                 };
 
                 root = node;
             }
             else
             {
-                AddTo(root, key, value);
+                AddTo(root, key);
             }
             Count++;
         }
 
-        private void AddTo(Node node, TKey key, TValue value)
+        private void AddTo(Node node, T key)
         {
             if (key.CompareTo(node.Key) < 0)
             {
                 if (node.nextLeft == null)
-                    node.nextLeft = new Node() { Key = key, Value = value };
+                    node.nextLeft = new Node() { Key = key };
                 else
-                    AddTo(node.nextLeft, key, value);
+                    AddTo(node.nextLeft, key);
             }
             else
             {
                 if (node.nextRight == null)
-                    node.nextRight = new Node() { Key = key, Value = value };
+                    node.nextRight = new Node() { Key = key };
                 else
-                    AddTo(node.nextRight, key, value);
+                    AddTo(node.nextRight, key);
             }
         }
 
-        public bool Contains(TKey key)
+        public bool Contains(T key)
         {
             Node runNode = root;
             while (runNode != null)
@@ -162,6 +106,27 @@ namespace BinaryTree
             return false;
         }
 
+
+        public T Search(T item)
+        {
+            Node node = root;
+
+            while (node != null)
+            {
+                int c = node.Key.CompareTo(item);
+
+                if (c == 0)
+                    return node.Key;
+
+                if (c > 0)
+                    node = node.nextLeft;
+                else
+                    node = node.nextRight;
+            }
+            throw new ArgumentException("Eintrag nicht gefunden!");
+        }
+
+
         public override string ToString()
         {
             string s = "";
@@ -173,7 +138,7 @@ namespace BinaryTree
 
             return s;
         }
-        
+
         void Traverse(TraverseModeEnum modus, Node node, ref string s)
         {
             switch (modus)
@@ -193,7 +158,7 @@ namespace BinaryTree
             }
         }
 
-        
+
         void traverse(Node node, ref string s)
         {
             if (node.nextLeft != null)
