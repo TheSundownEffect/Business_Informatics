@@ -91,7 +91,8 @@ namespace BinaryTree
 
         public BinaryTree()
         {
-
+            Count = 0;
+            root = null;
         }
 
 
@@ -116,13 +117,12 @@ namespace BinaryTree
 
         private void AddTo(Node node, TKey key, TValue value)
         {
-            if (key.CompareTo(node.Key) <= 0)
+            if (key.CompareTo(node.Key) < 0)
             {
                 if (node.nextLeft == null)
                     node.nextLeft = new Node() { Key = key, Value = value };
                 else
                     AddTo(node.nextLeft, key, value);
-
             }
             else
             {
@@ -170,20 +170,6 @@ namespace BinaryTree
 
         void traverse(Node node, ref string s)
         {
-            /*
-            s += node.nextLeft;
-            s += node.Key;
-            s += node.nextRight;
-
-            if (node.nextLeft != null)
-            {
-
-            }
-            if (node.nextRight != null)
-            {
-
-            }
-            */
             if (node.nextLeft != null)
                 traverse(node.nextLeft, ref s);
             s += " " + node.Key + " ";

@@ -23,7 +23,7 @@ namespace BinaryTree
     {
         static void Main(string[] args)
         {
-            string filePath = @"C:\GitHub\WI\Algo\Testdaten\ZIPCodes.csv";
+            string filePath = @"C:\GitHub\Business_Informatics\03-Semester\451530-Algorithms_and_Data_Structures\Skript\_Testdaten\ZIPCodes.csv";
 
             using (var reader = new StreamReader(filePath, Encoding.Default))
             {

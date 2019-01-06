@@ -19,7 +19,9 @@ namespace BinarySearch
         {
             var list = new SortedList<int>();
             list.AddRange(new int[] { 7, 3, 5, 9, 4, 1 });
-            list.QuickSort();
+            //list.BubbleSort();
+            //list.BinSearch();
+            //list.QuickSort();
             Console.WriteLine("MyAlgo:");
             Console.WriteLine(BinarySearch.binarySearchRecursive(list.ToArray(), 5, 1, 9));
 
