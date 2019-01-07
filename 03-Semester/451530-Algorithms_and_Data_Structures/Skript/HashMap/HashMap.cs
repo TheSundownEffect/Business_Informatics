@@ -40,6 +40,7 @@ namespace HashMap
 
         public int Count { get; private set; }
 
+        /*
         public IEnumerable<TKey> Keys
         {
             get
@@ -56,7 +57,7 @@ namespace HashMap
                 }
             }
         }
-
+        */
         public void Add(TKey key, TValue value)
         {
             int index = key.GetHashCode() % items.Length;
