@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Probeklausur", "Probeklausur\Probeklausur.csproj", "{D28FD46B-BF6C-461D-9491-AA274E4D4CA4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Datenstrukturen", "Datenstrukturen", "{6B60DD9B-175E-4614-A77E-7238CD05758E}"
+	ProjectSection(SolutionItems) = preProject
+		Probeklausur\Hashtabelle.cs = Probeklausur\Hashtabelle.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D28FD46B-BF6C-461D-9491-AA274E4D4CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28FD46B-BF6C-461D-9491-AA274E4D4CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28FD46B-BF6C-461D-9491-AA274E4D4CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28FD46B-BF6C-461D-9491-AA274E4D4CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86670E68-DD05-44E1-8BB5-875911EC60E7}
+	EndGlobalSection
+EndGlobal
