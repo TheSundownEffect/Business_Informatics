@@ -9,18 +9,18 @@ Repository for my current study course "Business Informatics" at the University 
 # **Table of Contents**
 ## #1 Semester
 
-### [451500-Basics_of_Software_Development](https://github.com/SundownEffect/Business_Informatics/tree/master/01-Semester/451500-Basics_of_Software_Development/) "451500-Basics_of_Software_Development")
+### [451500-Basics_of_Software_Development](https://github.com/SundownEffect/Business_Informatics/tree/master/01-Semester/451500-Basics_of_Software_Development/ "451500-Basics_of_Software_Development")
 ## #2 Semester
 ### Development of User-Interfaces
 ### Statistics
 ## #3 Semester
-### [451530-Algorithms_and_Data_Structures](https://github.com/SundownEffect/Business_Informatics/tree/master/03-Semester/451530-Algorithms_and_Data_Structures/) "451530-Algorithms_and_Data_Structures")
+### [451530-Algorithms_and_Data_Structures](https://github.com/SundownEffect/Business_Informatics/tree/master/03-Semester/451530-Algorithms_and_Data_Structures/ "451530-Algorithms_and_Data_Structures")
 ## #4 Semester
 ## #5 Semester
 ## #6 Semester
 
 Link Template
-### [link to show](...) "link title")
+### [link to show](... "link title")
 
 # Markup-Template
 ----
