@@ -3,7 +3,7 @@
 Repository for my current study course "Business Informatics" at the University of Applied Sciences in Flensburg with the goal of the university degree: "Bachelor of Science" 
 
 ----
-
+<div style="text-align:center"><img src ="https://i.imgur.com/eGLa9dX.jpg" /></div>
 ![](https://i.imgur.com/eGLa9dX.jpg)
 
 # **Table of Contents**
