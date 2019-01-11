@@ -4,6 +4,7 @@ Repository for my current study course "Business Informatics" at the University 
 
 ----
 <div style="text-align:center"><img src ="https://i.imgur.com/eGLa9dX.jpg" /></div>
+
 ![](https://i.imgur.com/eGLa9dX.jpg)
 
 # **Table of Contents**
