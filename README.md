@@ -4,7 +4,7 @@ Repository for my current study course "Business Informatics" at the University 
 
 ----
 
-![](https://i.imgur.com/zHwgxCz.png)
+![](https://i.imgur.com/a/73FIxxM.png)
 
 # **Table of Contents**
 ## #1 Semester
