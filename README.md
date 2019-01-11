@@ -8,7 +8,8 @@ Repository for my current study course "Business Informatics" at the University 
 
 # **Table of Contents**
 ## #1 Semester
-### 451500-Basics_of_Software_Development [Link](https://github.com/SundownEffect/Business_Informatics/tree/master/01-Semester/451500-Basics_of_Software_Development)。
+
+### [451500-Basics_of_Software_Development](https://github.com/SundownEffect/Business_Informatics/tree/master/01-Semester/451500-Basics_of_Software_Development/ "451500-Basics_of_Software_Development")
 ## #2 Semester
 ### Development of User-Interfaces
 ### Statistics
