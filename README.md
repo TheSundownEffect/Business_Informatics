@@ -3,13 +3,12 @@
 Repository for my current study course "Business Informatics" at the University of Applied Sciences in Flensburg with the goal of the university degree: "Bachelor of Science" 
 
 ----
-<div style="text-align:center"><img src ="https://i.imgur.com/eGLa9dX.jpg" /></div>
 
 ![](https://i.imgur.com/eGLa9dX.jpg)
 
 # **Table of Contents**
 ## #1 Semester
-### Basics of programming
+### 451500-Basics_of_Software_Development [Link](https://github.com/SundownEffect/Business_Informatics/tree/master/01-Semester/451500-Basics_of_Software_Development)。
 ## #2 Semester
 ### Development of User-Interfaces
 ### Statistics
