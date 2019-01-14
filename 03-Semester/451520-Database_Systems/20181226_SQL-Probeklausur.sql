@@ -1,6 +1,6 @@
 /* * * * * * * * * * * * * * * * * *
  * SQL-Probeklausur
- * Date: 26.06.2018
+ * Date: 26.12.2018
  * Author: Christian Bräunlich
 */
 

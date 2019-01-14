@@ -1,0 +1,22 @@
+- Tragen Sie alle Ergebnisse in das Klausurenheft ein. Denken Sie daran, dass Sie die SQL-Statements (nicht die Ergebnisse der Abfragen) in die Klausur eintragen sollen. 
+
+- Elektronische Ressourcen für die Prüfung finden Sie unter "\\asterix\pruefung$\DBS". Sie können den Pfad im Windows Explorer eingeben und so den entsprechenden Ordner öffnen.
+- Legen Sie einen Prüfungsordner lokal an. Benennen Sie diesen mit Ihrer Matrikelnummer. Löschen Sie diesen Ordner vollständig (!) nach Beendigung der Prüfung.
+- Kopieren Sie die sql-Datei aus dem Ordner "Skript" in Ihren Prüfungsordner.
+- Öffnen Sie die sql-Datei im SQL Server Management Studio.
+- Verwenden Sie folgende Einstellungen, um sich mit dem Datenbank-Server 'Goliath' zu verbinden:
+
+	Servertyp:		Datenbankmodul
+	Servername:		goliath.wi.fh-flensburg.de
+	Authentifizierung:	Windows-Authentifizierung
+	Benutzername:		keine Eingabe
+	Kennwort:		keine Eingabe
+
+- Führen Sie die geöffnete sql-Datei im SQL Server Management Studio aus. Es wird eine Prüfungsdatenbank angelegt, die aus "Verlag_" und Ihrem Benutzernamen besteht.
+- Sie können diese Datenbank nutzen, um Ihre SQL-Befehle zu testen. Wenn Sie die Datenbank verändert haben, dann können Sie das Skript erneut ausführen und die veränderte Datenbank wird überschreiben. Dazu darf die Datenbank in keinem Ihrer Skripte aktiv (ausgewählt) sein. 
+- Grundsätzlich sind nur Antworten im Klausurheft gültig. Sie können Ihre Antworten zudem im Ordner „Examen“ speichern. Speichern Sie dazu Ihre Lösungen in einer (!) SQL-Datei in Ihrem Prüfungsordner. Achten Sie darauf, dass klar ersichtlich ist, zu welchen Aufgaben die Antworten gehören. Kopieren Sie den gesamten Prüfungsordner in den Ordner "Examen". Notieren Sie den Dateinamen auf der ersten Seite Ihrer Klausur.
+
+ACHTUNG:
+- SQL Server Management Studio ist ausschließlich und während der gesamten Prüfungszeit im Vollbildmodus zu nutzen!
+- Denken Sie daran, dass Sie die SQL-Statements (nicht die Ergebnisse der Abfragen) in die Klausur eintragen sollen. 
+
