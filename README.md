@@ -24,6 +24,12 @@ Repository for my current study course "Business Informatics" at the University 
 Link Template
 ### [link to show](... "link title")
 
+
+
+# How to make contribution?
+
+
+
 # Markup-Template
 ----
 
